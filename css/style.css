@@ -1,0 +1,34 @@
+body {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-position: top;
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+   margin-top: 150px;
+    background-color:rgba(2, 21, 63,0.8) ;
+}
+h1 {
+    color: #0dcaf0;
+}
+::placeholder{
+    color: rgb(182, 182, 182)!important;
+    text-align: center;
+    font-size: large;
+}
+button{
+    color: white !important;
+}
+button:hover {
+    color: #1783c6 !important;
+}
+a:hover {
+    text-decoration: underline !important;
+}
+
+
+nav .bbtn{
+    color: #1093e5 !important;
+}
+
+p{color: white;}

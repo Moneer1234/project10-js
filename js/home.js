@@ -1,0 +1,1 @@
+document.querySelector(".currentuser").innerHTML=localStorage.getItem("currentuser")
